@@ -1,0 +1,22 @@
+{
+  "name": "cursocypress",
+  "version": "1.0.0",
+  "description": "Curso de Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "cypress:open": "cypress open",
+    "cypress": "cypress run"  
+  },
+  "keywords": [
+    "cypress",
+    "test",
+    "automation",
+    "e2e"
+  ],
+  "author": "Tayna Peres",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^8.5.0"
+  }
+}
